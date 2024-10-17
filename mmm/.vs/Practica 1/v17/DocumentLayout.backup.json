@@ -1,0 +1,118 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\Clase\\Desarrollo de entornos interactivos\\Tareas\\Practica 1\\Practica 1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{933BABA5-56A8-70DD-755C-6EB544621BDD}|Assembly-CSharp.Player.csproj|e:\\clase\\desarrollo de entornos interactivos\\tareas\\practica 1\\practica 1\\assets\\resources\\scripts\\score.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{933BABA5-56A8-70DD-755C-6EB544621BDD}|Assembly-CSharp.Player.csproj|solutionrelative:assets\\resources\\scripts\\score.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{933BABA5-56A8-70DD-755C-6EB544621BDD}|Assembly-CSharp.Player.csproj|e:\\clase\\desarrollo de entornos interactivos\\tareas\\practica 1\\practica 1\\assets\\resources\\scripts\\coins.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{933BABA5-56A8-70DD-755C-6EB544621BDD}|Assembly-CSharp.Player.csproj|solutionrelative:assets\\resources\\scripts\\coins.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{933BABA5-56A8-70DD-755C-6EB544621BDD}|Assembly-CSharp.Player.csproj|E:\\Clase\\Desarrollo de entornos interactivos\\Tareas\\Practica 1\\Practica 1\\assets\\resources\\scripts\\saveloadtxt.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{933BABA5-56A8-70DD-755C-6EB544621BDD}|Assembly-CSharp.Player.csproj|solutionrelative:assets\\resources\\scripts\\saveloadtxt.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{933BABA5-56A8-70DD-755C-6EB544621BDD}|Assembly-CSharp.Player.csproj|E:\\Clase\\Desarrollo de entornos interactivos\\Tareas\\Practica 1\\Practica 1\\assets\\resources\\scripts\\saveloadjson.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{933BABA5-56A8-70DD-755C-6EB544621BDD}|Assembly-CSharp.Player.csproj|solutionrelative:assets\\resources\\scripts\\saveloadjson.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{933BABA5-56A8-70DD-755C-6EB544621BDD}|Assembly-CSharp.Player.csproj|E:\\Clase\\Desarrollo de entornos interactivos\\Tareas\\Practica 1\\Practica 1\\assets\\resources\\scripts\\firstpersoncamera.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{933BABA5-56A8-70DD-755C-6EB544621BDD}|Assembly-CSharp.Player.csproj|solutionrelative:assets\\resources\\scripts\\firstpersoncamera.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{933BABA5-56A8-70DD-755C-6EB544621BDD}|Assembly-CSharp.Player.csproj|E:\\Clase\\Desarrollo de entornos interactivos\\Tareas\\Practica 1\\Practica 1\\assets\\resources\\scripts\\playermovement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{933BABA5-56A8-70DD-755C-6EB544621BDD}|Assembly-CSharp.Player.csproj|solutionrelative:assets\\resources\\scripts\\playermovement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Score.cs",
+              "DocumentMoniker": "E:\\Clase\\Desarrollo de entornos interactivos\\Tareas\\Practica 1\\Practica 1\\Assets\\Resources\\Scripts\\Score.cs",
+              "RelativeDocumentMoniker": "Assets\\Resources\\Scripts\\Score.cs",
+              "ToolTip": "E:\\Clase\\Desarrollo de entornos interactivos\\Tareas\\Practica 1\\Practica 1\\Assets\\Resources\\Scripts\\Score.cs",
+              "RelativeToolTip": "Assets\\Resources\\Scripts\\Score.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-02T13:45:09.66Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Coins.cs",
+              "DocumentMoniker": "E:\\Clase\\Desarrollo de entornos interactivos\\Tareas\\Practica 1\\Practica 1\\Assets\\Resources\\Scripts\\Coins.cs",
+              "RelativeDocumentMoniker": "Assets\\Resources\\Scripts\\Coins.cs",
+              "ToolTip": "E:\\Clase\\Desarrollo de entornos interactivos\\Tareas\\Practica 1\\Practica 1\\Assets\\Resources\\Scripts\\Coins.cs",
+              "RelativeToolTip": "Assets\\Resources\\Scripts\\Coins.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-02T13:18:51.817Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "SaveLoadTXT.cs",
+              "DocumentMoniker": "E:\\Clase\\Desarrollo de entornos interactivos\\Tareas\\Practica 1\\Practica 1\\Assets\\Resources\\Scripts\\SaveLoadTXT.cs",
+              "RelativeDocumentMoniker": "Assets\\Resources\\Scripts\\SaveLoadTXT.cs",
+              "ToolTip": "E:\\Clase\\Desarrollo de entornos interactivos\\Tareas\\Practica 1\\Practica 1\\Assets\\Resources\\Scripts\\SaveLoadTXT.cs",
+              "RelativeToolTip": "Assets\\Resources\\Scripts\\SaveLoadTXT.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAEIAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-30T08:15:53.275Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "SaveLoadJson.cs",
+              "DocumentMoniker": "E:\\Clase\\Desarrollo de entornos interactivos\\Tareas\\Practica 1\\Practica 1\\Assets\\Resources\\Scripts\\SaveLoadJson.cs",
+              "RelativeDocumentMoniker": "Assets\\Resources\\Scripts\\SaveLoadJson.cs",
+              "ToolTip": "E:\\Clase\\Desarrollo de entornos interactivos\\Tareas\\Practica 1\\Practica 1\\Assets\\Resources\\Scripts\\SaveLoadJson.cs",
+              "RelativeToolTip": "Assets\\Resources\\Scripts\\SaveLoadJson.cs",
+              "ViewState": "AQIAACMAAAAAAAAAAIA6wEAAAAAlAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-30T08:02:14.542Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "FirstPersonCamera.cs",
+              "DocumentMoniker": "E:\\Clase\\Desarrollo de entornos interactivos\\Tareas\\Practica 1\\Practica 1\\Assets\\Resources\\Scripts\\FirstPersonCamera.cs",
+              "RelativeDocumentMoniker": "Assets\\Resources\\Scripts\\FirstPersonCamera.cs",
+              "ToolTip": "E:\\Clase\\Desarrollo de entornos interactivos\\Tareas\\Practica 1\\Practica 1\\Assets\\Resources\\Scripts\\FirstPersonCamera.cs",
+              "RelativeToolTip": "Assets\\Resources\\Scripts\\FirstPersonCamera.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABcAAAAWAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-30T07:46:43.157Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "PlayerMovement.cs",
+              "DocumentMoniker": "E:\\Clase\\Desarrollo de entornos interactivos\\Tareas\\Practica 1\\Practica 1\\Assets\\Resources\\Scripts\\PlayerMovement.cs",
+              "RelativeDocumentMoniker": "Assets\\Resources\\Scripts\\PlayerMovement.cs",
+              "ToolTip": "E:\\Clase\\Desarrollo de entornos interactivos\\Tareas\\Practica 1\\Practica 1\\Assets\\Resources\\Scripts\\PlayerMovement.cs",
+              "RelativeToolTip": "Assets\\Resources\\Scripts\\PlayerMovement.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACQAAAARAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-28T14:08:03.732Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

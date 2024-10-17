@@ -1,0 +1,22 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 8a16ab98dceff6e429cc0b4aa4080d8d, type: 3}
+  m_Name: GuardState (S)
+  m_EditorClassIdentifier: 
+  stateParameters:
+  - actionvalues: 0101
+    actions:
+    - {fileID: 11400000, guid: 0e9cba896f7fddb41a673d806bccead3, type: 2}
+    - {fileID: 11400000, guid: dd2b6621a5fd5514eae129b14ffc59bf, type: 2}
+    nextStates: {fileID: 11400000, guid: ca304e3520f310a47abd0ece70b82b44, type: 2}
+    and: 1
+  guardPoint: {x: 165.01202, y: 132.18, z: 844.2612}

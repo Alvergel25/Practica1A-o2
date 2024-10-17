@@ -3,13 +3,21 @@ using System.Collections.Generic;
 using UnityEngine;
 
 [System.Serializable]
+public struct ActionParameters
+{
+    [Tooltip("Action that is gonna be executed")]
+    public Action action;
+    [Tooltip("Indicates if the action's check must be true or false")]
+    public bool actionValue;
+}
+
+
+[System.Serializable]
 public struct StateParameters
 {
-    [Tooltip("Indicates if the action's check must be true or false")]
-    public bool[] actionvalues;
-    [Tooltip("Action that is gonna be executed")]
-    public Action[] actions;
-    [Tooltip("If the action's check equeals actionValue, next is puched")]
+    [Tooltip("ActionParameters' array")]
+    public ActionParameters[] actionParameters;
+    [Tooltip("If the action's check equeals actionValue, next is puched")] //Los tooltips ponen tips cuando pones el cursor encima
     public State nextStates;
     [Tooltip("All actions are executed or just one")]
     public bool and;
@@ -26,10 +34,10 @@ public abstract class State : ScriptableObject
         for(int i = 0; i < stateParameters.Length; i++)
         {
             bool AllActions = true;
-            for(int j = 0; j < stateParameters[i].actions.Length; j++)
+            for(int j = 0; j < stateParameters[i].actionParameters.Length; j++)
             {
-
-                if (stateParameters[i].actions[j].Check(owner) == stateParameters[i].actionvalues[j])
+                ActionParameters actionParameters = stateParameters[i].actionParameters[j];
+                if (actionParameters.action.Check(owner) == actionParameters.actionValue)
                 {
                     if (!stateParameters[i].and) //Si solo se tiene que cumplir una
                     {
@@ -73,9 +81,9 @@ public abstract class State : ScriptableObject
     {
         foreach(StateParameters parameter in stateParameters)
         {
-            foreach(Action action in parameter.actions)
+            foreach(ActionParameters aP in parameter.actionParameters)
             {
-                action.DrawGizmos(owner);
+                aP.action.DrawGizmos(owner);
             }
         }
     }
